@@ -1,6 +1,6 @@
 # Hi, I'm Carlo 👋🏼 👾
 
-Some days I am a frontend engineer, I try to be a manager and when I am really lucky I am a scuba diver ;-)
+Some days I am a software engineer, I try to be a manager and when I am really lucky I am a scuba diver ;-)
 
 Find me around the web 🌎 :
 
